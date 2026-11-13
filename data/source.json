@@ -1,0 +1,29 @@
+{
+  "tables": {
+    "feed": [
+      {
+        "row_id": "f1",
+        "batch": "B",
+        "cost": 4
+      },
+      {
+        "row_id": "f2",
+        "batch": "B",
+        "cost": 4
+      }
+    ],
+    "sales": [
+      {
+        "row_id": "s1",
+        "batch": "B",
+        "grade": "A"
+      },
+      {
+        "row_id": "s2",
+        "batch": "B",
+        "grade": "A"
+      }
+    ]
+  },
+  "snapshot": "s1"
+}
